@@ -1,1 +1,2 @@
 This is to say that i have updated the information in the hello world doc so that i have something to push to the Git repsository.
+This is an update to prove that the git command works with nano.
